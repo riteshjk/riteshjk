@@ -89,12 +89,3 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
-(292 kB)
-https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
-
-(333 kB)
-https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
-
-developer.mozilla.orgdeveloper.mozilla.org
-JavaScript | MDN
-JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
