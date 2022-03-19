@@ -79,9 +79,7 @@
 <h2  > Connect with me</h2>
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ritesh-kamthe-91562416b/)
 <br><br>
-  <a href="https://medium.com/@deeptange" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
+
 <br><br>
 <br><br>
 ## Have a Smiley Day...:smiley: :<br>
