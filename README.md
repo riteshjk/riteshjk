@@ -77,7 +77,7 @@
 <img src ="https://static.wixstatic.com/media/520c8c_e6ddf6b7c2a841ae90cb2bfcf4355ff5~mv2.gif" align = "left" width = 40% height =200px>
 <div>
 <h2  > Connect with me</h2>
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]("https://www.linkedin.com/in/ritesh-kamthe-91562416b/")
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ritesh-kamthe-91562416b/)
 <br><br>
 
 <br><br>
