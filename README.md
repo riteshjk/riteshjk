@@ -4,10 +4,10 @@
 <img width="40%" align="right" alt="Github Header" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h3 align="left">Interests:</h3>
 - Front end Development
-- Data Structures And Algorithms :computer:
+- Data Structures And Algorithms
 - React & Redux
 <h3 align="left">Languages:</h3>
-- English :abc:
+- English 
 - Marathi
 - Hindi
 <br><br>
