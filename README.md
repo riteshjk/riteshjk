@@ -100,12 +100,19 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshjk&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="riteshjk" /></p>
 
 <br>
-<img src ="https://static.wixstatic.com/media/520c8c_e6ddf6b7c2a841ae90cb2bfcf4355ff5~mv2.gif" align = "left" width = 30% height =150px>
+<img src ="https://static.wixstatic.com/media/520c8c_e6ddf6b7c2a841ae90cb2bfcf4355ff5~mv2.gif" align = "left" width = 30% height =220px>
 <div>
 <h2  > Connect with me</h2>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ritesh-kamthe-91562416b/)
 <br><br>
+     <a href="https://medium.com/@riteshkamthe01" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+   <br><br>
+    <a href="https://twitter.com/RiteshKamthe" target="_blank">
+      <img src="https://th.bing.com/th/id/R.cba6b52e76570f2a4f7756a7a2470e5f?rik=QTy873Vc%2f10zuQ&riu=http%3a%2f%2fimages.clipartpanda.com%2ftwitter-clipart-twitter-logo-2.png&ehk=2R5LVhw%2b7g0JqQV9aGUUt9AbBWN6mk89a8QcDD%2fRs3k%3d&risl=&pid=ImgRaw&r=0" alt="example"  width = 10% height =25px/>
+    </a>
 <br>
 
 
