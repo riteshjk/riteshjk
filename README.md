@@ -110,9 +110,8 @@
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
    <br><br>
-    <a href="https://twitter.com/RiteshKamthe" target="_blank">
-      <img src="https://th.bing.com/th/id/R.cba6b52e76570f2a4f7756a7a2470e5f?rik=QTy873Vc%2f10zuQ&riu=http%3a%2f%2fimages.clipartpanda.com%2ftwitter-clipart-twitter-logo-2.png&ehk=2R5LVhw%2b7g0JqQV9aGUUt9AbBWN6mk89a8QcDD%2fRs3k%3d&risl=&pid=ImgRaw&r=0" alt="example"  width = 10% height =25px/>
-    </a>
+   <a href="https://twitter.com/RiteshKamthe" target="blank" >
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deep_tange" height="30" width="40" />
 <br>
 
 
