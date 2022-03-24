@@ -104,7 +104,8 @@
 <div>
 <h2  > Connect with me</h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ritesh-kamthe-91562416b/)
+<a href="https://www.linkedin.com/in/ritesh-kamthe-91562416b/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritesh_kamthe" height="30" width="40" />
 <br><br>
      <a href="https://medium.com/@riteshkamthe01" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
