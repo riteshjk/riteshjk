@@ -15,7 +15,7 @@
 
 <h3 align="left">Portfolio:</h3>
 
-- [@Ritesh_kamthe](ritesh01-portfolio.netlify.app)
+- [@Ritesh_kamthe](ritesh07.netlify.app)
 
 <h3 align="left">Languages:</h3>
 
