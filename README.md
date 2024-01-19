@@ -1,6 +1,7 @@
 <h1 align="center">Hey there, I'm Ritesh<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">An Enthusiast, Passionate aspiring Full Stack Developer skilled in MERN stack and a Life-Long Learner</h3>
+<h3 align="center">
+"Dreaming big, coding even bigger - an unstoppable force on the journey to becoming a proficient Full Stack Developer, fueled by passion, curiosity, and a commitment to lifelong learning."</h3>
 
 <br>
 
